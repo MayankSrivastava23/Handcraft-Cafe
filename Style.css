@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@media screen and (max-width: 600px){
+    body{
+        background-color: aqua;
+    }
+}
+body{
+    background-image: url(https://image.shutterstock.com/image-photo/asian-woman-learning-color-painting-260nw-2056201991.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color: rgb(186, 244, 244);
+    height: 5rem;
+}
+.logo h1{
+    margin-left: 3rem;
+    align-content: center;
+    font-style: italic;
+}
+nav ul{
+    display: flex;
+    gap: 1rem;
+    margin-right: 2rem;
+}
+nav ul li{
+    list-style: none;
+   
+}
+
+nav ul li a{
+    text-decoration:none;
+    text-decoration-color: black;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #555;
+  
+}
+.J{
+    word-spacing: 20px;
+    background-color: black;
+    color: rgb(236, 150, 22);
+
+    
+}
+.i1{
+width: 15%;
+}
+.d2{
+        display:flex;
+    justify-content:space-around;
+}
+    
+.E12{
+    height: 15rem;
+    width: 15rem;
+    border: 5px solid black;
+}
+.hi1{
+    margin-left: 10px;
+}
+.h12{
+    color:rgb(10, 5, 14);
+    margin-left: 10px;
+
+}
+.E13{
+    display: flex;
+    justify-content: space-around;
+}
+.E14{
+    height: 15rem;
+    width: 15rem;
+    border: 5px solid black;
+}
+.E15{
+    color: rgb(155, 22, 22);
+  background-color: 009900;
+  margin: 2px;
+  font-size: 25px;
+}
+
+
+
+
+p{
+    color: white;
+    background-color: 009900;
+    width: 900px;
+    display:flex;
+    text-align: center;
+    margin: 25px;
+    color: rgb(57, 34, 14);
+    }
+    .E17
+    {    
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;    
+        color: rgb(158, 31, 31);
+        background-color: 009900;
+
+    }
+    .E18
+    {
+    color: rgb(240, 13, 13);
+    background-color: 009900;
+    width: 500px;
+    margin: 100px;
+    
+    }
+    .indigo {
+        display: flex;
+        justify-content:space-between;
+        align-items:center;
+        background-color: rgb(186, 244, 244);
+        height: 5rem;
+    }
+    .form{
+        width: 100%;
+        height: 50vh;
+        background-color: rgb(203, 211, 216);
+        border: 5px solid #555;
+    }
+    .E19{
+        color:black
+    }
+    .E20{
+        width: 100%;
+        height: 50vh;
+        background-color: rgb(203, 206, 174);
+        
+    }
+    .E21{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;    
+    }
+    .E14{
+        background-color: rgb(255, 123, 0);
+        display: inline-block;
+        width: 60vh;
+        height: 40vh;
+    }
+
+    
